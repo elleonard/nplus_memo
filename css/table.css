@@ -68,3 +68,34 @@ td {
 .finished {
 	background-color:#f5dcf5;
 }
+
+/* 遊戯王 */
+.normal-monster {
+	background-color:#F5F5DC;
+}
+.effect-monster {
+	background-color: #F4A460;
+}
+.ritual-monster {
+	background-color: #87CEEB;
+}
+.magic {
+	background-color: #99ff99;
+}
+.trap {
+	background-color: #FF9999;
+}
+.fusion-monster {
+	background-color: #FF99FF;
+}
+.synchro-monster {
+	background-color: #F3F3F3;
+}
+.darksynchro-monster {
+	background-color: #1E1E1E;
+	color: #F3F3F3;
+}
+.exz-monster {
+	background-color: #606060;
+	color: #D0D3D3;
+}
